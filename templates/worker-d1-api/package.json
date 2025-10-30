@@ -7,7 +7,7 @@
 		"start": "wrangler dev"
 	},
 	"dependencies": {
-		"hono": "^3.12.11"
+		"hono": "^4.10.3"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20240718.0",
