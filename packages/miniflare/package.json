@@ -49,10 +49,10 @@
 		"exit-hook": "^2.2.1",
 		"glob-to-regexp": "^0.4.1",
 		"stoppable": "^1.1.0",
-		"undici": "^5.28.4",
+		"undici": "^5.29.0",
 		"workerd": "1.20240718.0",
 		"ws": "^8.17.1",
-		"youch": "^3.2.2",
+		"youch": "^3.3.4",
 		"zod": "^3.22.3"
 	},
 	"devDependencies": {
