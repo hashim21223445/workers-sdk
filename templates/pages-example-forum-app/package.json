@@ -41,7 +41,7 @@
 		"react-icons": "^4.4.0",
 		"react-scripts": "5.0.1",
 		"web-vitals": "^2.1.4",
-		"wrangler": "^3.0.0"
+		"wrangler": "^4.24.4"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20240718.0",
