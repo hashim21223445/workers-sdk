@@ -17,6 +17,6 @@
 		"@databases/sql": "^3.2.0",
 		"better-sqlite3": "^7.6.2",
 		"typescript": "^5.4.5",
-		"wrangler": "^3.0.0"
+		"wrangler": "^4.24.4"
 	}
 }
