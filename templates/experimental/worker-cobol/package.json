@@ -9,9 +9,9 @@
 		"dev": "wrangler dev src/index.js --local"
 	},
 	"devDependencies": {
-		"copy-webpack-plugin": "^5.1.1",
+		"copy-webpack-plugin": "^10.0.0",
 		"text-encoding": "^0.7.0",
-		"webpack": "^4.42.1",
+		"webpack": "^5.98.0",
 		"webpack-cli": "^4.9.0",
 		"wrangler": "^3.0.0"
 	}
